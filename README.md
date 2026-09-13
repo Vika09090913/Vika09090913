@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20there,%20I'm%20Victoria!&fontSize=40&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Hi%20there,%20I'm%20Victoria!&fontSize=40&fontColor=fff&animation=fadeIn" />
 
 </div>
 
@@ -39,12 +39,32 @@ Here are the technologies I actively use in my projects:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vika09090913&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vika09090913&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Vika09090913&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vika09090913&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vika09090913&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vika09090913&theme=redical&hide_border=true" width="97%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Vika09090913&theme=radical&row=1&column=6&margin-w=10)
 
 </div>
 
@@ -53,5 +73,5 @@ Here are the technologies I actively use in my projects:
 📬 *Thank you for visiting my profile and reviewing my work!*
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=100&section=footer" />
 </div>
