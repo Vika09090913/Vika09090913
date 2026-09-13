@@ -21,11 +21,12 @@ Here are the technologies I actively use in my projects:
 ---
 
 ## 🗂️ Featured Projects
-*Below you can find a selection of my favorite projects. Each repository contains a detailed README with the project's goal and a link to the live demo.*
 
-1. **[ice-cream-quiz](https://github.com)** - An interactive Frontend web app built with modern JavaScript components.
-2. **[vika-portfolio](https://github.com)** - My personal portfolio page demonstrating responsive layout and CSS structures.
-3. **[weather-app](https://github.com)** - A game/simulation tracking grid positions and algorithmic logic.
+| Project | Description |
+|---|---|
+| 🍦 **[ice-cream-quiz](https://github.com/Vika09090913/ice-cream-quiz)** | Interactive Kahoot-style quiz built with React and Vite, featuring custom avatars and a real-time shared leaderboard powered by Firebase. |
+| 👤 **[vika-portfolio](https://github.com/Vika09090913/vika-portfolio)** | My personal portfolio website, showcasing my skills, background, and all my React projects in one place. |
+| 🐱 **[weather-app](https://github.com/Vika09090913/weather-app)** | A React weather app using the Open-Meteo API, displaying live weather data alongside fun cat illustrations. |
 
 ---
 
