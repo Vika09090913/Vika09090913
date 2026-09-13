@@ -55,7 +55,7 @@ Here are the technologies I actively use in my projects:
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vika09090913&theme=redical&hide_border=true" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vika09090913&theme=radical&hide_border=true" width="97%"/>
 </div>
 
 ---
