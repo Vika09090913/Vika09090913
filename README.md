@@ -43,7 +43,7 @@ Here are the technologies I actively use in my projects:
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Vika09090913&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vika09090913&theme=radical&hide_border=true)
 
 </div>
 
