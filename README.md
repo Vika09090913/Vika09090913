@@ -4,7 +4,7 @@
 
 </div>
 
-## 🇨🇭 Über mich (Für die Fachkommission / Kanton Aargau)
+## 🇨🇭 Über mich
 Ich bin 12 Jahre alt, gehe in die 6. Klasse in Boswil und begeistere mich sehr für Informatik, Logik und Mathematik. Seit mehreren Jahren programmiere ich selbstständig eigene Projekte. Mein Ziel ist es, meine Fähigkeiten im Bereich Software Engineering und Künstliche Intelligenz weiterzuentwickeln. Dieses GitHub-Profil dient als Portfolio meiner bisherigen Arbeiten für die Bewerbung um die kantonalen Ateliers (Mathematik / Robotik und Forschung).
 
 ---
