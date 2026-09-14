@@ -49,13 +49,13 @@ Here are the technologies I actively use in my projects:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vika09090913&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vika09090913&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-eight-tau.vercel.app/api?username=Vika09090913&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-tau.vercel.app/api/top-langs/?username=Vika09090913&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vika09090913&theme=radical&hide_border=true" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vika09090913&theme=redical&hide_border=true" width="97%"/>
 </div>
 
 ---
@@ -64,7 +64,7 @@ Here are the technologies I actively use in my projects:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vika09090913&theme=radical&row=1&column=6&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Vika09090913&theme=radical&row=1&column=6&margin-w=10&no-frame=true)
 
 </div>
 
